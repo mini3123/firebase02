@@ -1,0 +1,68 @@
+*{
+
+    font-family: "Noto Sans KR", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    text-decoration: none;
+    list-style: none;
+    border-collapse: collapse;
+    margin: 0px;
+    padding: 0px;
+    color: black;
+
+}
+.intro_bg{
+    background-image: url(img03.png);
+    width: 1560px;
+    height: 680px;
+}
+.homes{
+
+    text-shadow: 4px 2px 4px rgba(0, 0, 0, 0.3);
+    padding: 10px 0px;
+    text-align: center;
+    margin: auto;
+    max-width: 800px;
+    min-width: 600px;
+}
+.home_text{
+    width: 100%;
+    margin: 150px auto;
+    font-size: 30px;
+    color: #fff;
+    
+}
+.header{
+    width: 1560px;
+    margin: auto;
+    text-align: center;
+    
+}
+.nav{
+    display: flex;
+}
+.nav > li{
+    margin-right:84px;
+}
+.nav > li > a{
+    color: white;
+}
+.profile_text{
+    width: 100%;
+    margin: 280px auto;
+    font-size: 12px;
+}
+.imgtest{
+    width: 300x;
+    height: 300px;   
+    top: 10;
+    position: absolute;
+    
+}
+.imgtest2{
+    width: 300x;
+    height: 300px;   
+    top: 10;
+    position: absolute;
+}
